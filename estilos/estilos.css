@@ -240,7 +240,7 @@ color: #000;
 #whatsapp {
   position: fixed;
   top: 80%;
-  right: 1%;
+  left: 1%;
 }
 
 html {
